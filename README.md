@@ -32,17 +32,12 @@ This project consists of two main analyses:
 ## Installation & Usage
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/project-analysis.git
+   git clone https://github.com/Wynnzzz/analisis-dataset-cuaca-dan-jantung
    cd project-analysis
    ```
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
-   ```
-3. **Run Analysis**
-   ```bash
-   python clustering_weather.py
-   python classification_heart_disease.py
    ```
 
 ## Technologies Used
@@ -59,5 +54,5 @@ Contributions are welcome! Please fork this repository and create a pull request
 This project is licensed under the MIT License.
 
 ---
-Developed by [Your Name]
+Developed by Berwyn Izzut Taghyir
 
