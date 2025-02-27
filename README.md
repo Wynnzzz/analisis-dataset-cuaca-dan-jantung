@@ -33,7 +33,7 @@ This project consists of two main analyses:
 1. **Clone Repository**
    ```bash
    git clone https://github.com/Wynnzzz/analisis-dataset-cuaca-dan-jantung
-   cd project-analysis
+   cd project analisis-dataset-cuaca-dan-jantung
    ```
 2. **Install Dependencies**
    ```bash
